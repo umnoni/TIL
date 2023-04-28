@@ -11,3 +11,6 @@ Today I Learned
   - ES6 spread 문법 활용법
   - computed를 활용한 클래스 바인딩
   - method return의 타입 정의
+
+23.04.28
+- Github - SourceTree 연동
